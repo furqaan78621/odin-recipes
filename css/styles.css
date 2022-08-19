@@ -1,28 +1,29 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+
+}
 h1 {
     text-align: center;
-    font-family: sans-serif;
-    font-size: 50px;
+    font-size: 60px;
+    text-decoration: underline;
 }
 
-img {
-    height:auto;
-    width: 500px;
+img{
+    height: auto;
+    width: 700px;
 }
 
 h2 {
     font-size: 30px;
-    font-family: monospace;
+    text-decoration: underline;
+    text-align:center;
 }
 
 li{
-    color: gray;
-    background-color: rgb(255, 255, 255);
-    font-family: sans-serif;
     font-size: 23px;
 }
 
 .regular {
-    font-family: sans-serif;
     font-size: 23px;
     font-weight: normal;
 }
@@ -30,3 +31,14 @@ li{
 ol {
     font-weight: 700;
 }
+ .centered {
+     text-align: center;
+ }
+
+ .links {
+     font-size: 30px;
+ }
+ 
+ .bottom-of-page {
+    text-align: center;
+ }
